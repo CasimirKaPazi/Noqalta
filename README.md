@@ -8,7 +8,7 @@ The initial inspiration and motivation drives from the vowel inventory and the i
 Structure of this documentation
 -------------------------------
   
-"[Phonology](Phonology.md)"  
+[Phonology](Phonology.md)
 
 License
 -------

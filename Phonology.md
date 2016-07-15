@@ -3,15 +3,15 @@ Phonology
 
 | Consonants          | Bilabial | Alveolar | Palatal | Retrofelx | Velar  | Uvular |
 | ------------------- |:--------:|:--------:|:-------:|:---------:|:------:|:------:|
-| Nasal               | m        | n        | ɲ  (nj) | ɳ   (nr)  | ŋ  (ng)| ɴ  (nh)|
-| Prenasal stop       | mp       | nt       |         |           | ŋk (nk)| ɴq (nq)|
-| Post-stop fricative | fp       | st       | çc  (cc)| ʂʈ  (şt)  | xk     | χq (xq)|
+| Nasal               | m        | n        | ɲ  (nj) | ɳ  (nr)   | ŋ  (ng)| ɴ  (nh)|
+| Prenasal stop       | mb       | nd       |         |           | ŋg (nk)| ɴɢ (nq)|
+| Post-stop fricative | fp       | st       | çc (cc) | ʂʈ (şt)   | xk     | χq (xq)|
 | Plosive             | p        | t        |         |           | k      | q      |
-| Affricative         |          |          | tɕ  (tc)| ʈʂ  (tş)  |        |        |
+| Affricative         |          |          | tɕ (tc) | ʈʂ (tş)   |        |        |
 | Fricative           | f        | s        |         |           | x      | χ  (xh)|
-| Trill               |          | r        |         | ɻ   (rr)  |        | ʀ  (rh)|
+| Trill               |          | r        |         | ɻ  (rr)   |        | ʀ  (rh)|
 | Approximant         |          |          | ɥ       |           | ɰ      |        |
-| Lateral             |          | l        | ʎ   (lj)| ɭ   (lr)  |        |        |
+| Lateral             |          | l        | ʎ  (lj) | ɭ  (lr)   |        |        |
 
 | Vowels   | f-u   | f-r |  c   | b-u      | b-r |
 | -------- |:-----:|:---:|:----:|:--------:|:---:|
