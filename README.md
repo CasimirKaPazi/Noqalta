@@ -45,8 +45,8 @@ Features:
 Structure of this documentation
 -------------------------------
   
-[Phonology](Phonology.md)
-[Grammar](Grammar.md)
+[Phonology](Phonology.md)  
+[Grammar](Grammar.md)  
 [Lexicon](Lexicon.md)
 
 License

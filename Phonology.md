@@ -6,11 +6,11 @@ Phonemes
 
 | Consonants          | Bilabial | Dental   |Alveolar| Retrofelx | Palatal | Velar  | Uvular |
 | ------------------- |:--------:|:--------:|:------:|:---------:|:-------:|:------:|:------:|
-| Nasal               | m        | n̪ [ɱ](mn)| n      | ɳ  (nr)   | ɲ  (nj) | ŋ  (ng)| ɴ  (nh)|
+| Nasal               | m        | n̪~ɱ (mn) | n      | ɳ  (nr)   | ɲ  (nj) | ŋ  (ng)| ɴ  (nh)|
 | Post-stop fricative | fp       | st       | ʃt (št)| ʂʈ (şt)   | çc (cc) | xk     | χq (xq)|
-| Plosive             | p        | t̪~t      |        |           |         | k      | q      |
+| Plosive             | p        | t̪        |        |           |         | k      | q      |
 | Affricative         |          |          | tʃ (tš)| ʈʂ (tş)   | tɕ (tc) |        |        |
-| Fricative           | f        | s        |        |           |         | x      | χ  (xh)|
+| Fricative           | f        | s̪        |        |           |         | x      | χ  (xh)|
 | Trill               |          |          | ɾ [r]  | ɻ  (rr)   |         |        | ʀ  (rh)|
 | Approximant         |          |          |        |           | ɥ  (j)  |[ɰ]     |        |
 | Lateral             |          |          | l      | ɭ  (lr)   | ʎ  (lj) |        |        |
@@ -33,10 +33,10 @@ Phonemes
 
 (C,#)V(N)T  
 C = C  
-N = C except Prefricative, Affricative, ɥ, ɰ, r, n̪, ɳ, ɲ
+N = C except Prefricative, Affricative, ɥ, ɰ, r, n̪, ɳ, ɲ  
 T = [See section on tone]
 
-ɥ, ɰ only in V_V
+ɥ, ɰ only in V_V  
 ɥ > Ø / (#,C)_ (pyl.ɥa > py.la)
 
 ### Consonant allophony within vowel harmony

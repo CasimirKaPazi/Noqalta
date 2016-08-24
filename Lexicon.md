@@ -32,6 +32,7 @@ noqalta | definition			| source
 ### Different
 First person in definition get's marked as originator of the relation.
 e.g. the parent originated the parent-child relationship.
+
 noqalta | definition			| source
 --------|-----------------------|-------
 fafa    | parent-child
