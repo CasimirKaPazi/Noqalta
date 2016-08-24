@@ -5,10 +5,49 @@ Noqalta will be a construted langauge. Using mostly nonconcatenative morphology 
 
 The initial inspiration and motivation drives from the vowel inventory and the idea of using disyllabic roots and patterns composed of tone, affixes and coda consonants.
 
+Features:
+
+* Phonology
+	* Mid-large to large consonant inventory
+	* Vowel harmony
+	* Tonal
+* Word classes (breaking the normal noun-verb structure)
+	* "Predicatives"
+		* Marked for transitivity (0 - 3+)
+		* Inclusive, exclusive, self-exclusive agreement
+		* Presence-absence
+	* "Relations"
+		* Marked for transitivity (2 - 3+)
+		* Case marking for initiator
+	* Numbers
+* Morphology
+	* Polysynthetic
+	* Fusional affixes
+	* Root-pattern morphology for word stems
+	* Lexical affixes
+		* Describe which location/shape/state something is in
+		* Only occurs in the absolutive
+	* Several types of possession
+* Syntax
+	* Mostly VO word order
+* Numeral system
+	* Modified Zeckendorf representation (one word for each fibonnacçi number)
+	* Number values assigned to CV combinations in a fractal manner, so every word can get read as a number
+* Writing system
+	* Only CV part of syllables written out
+	* Possibly using derminatives
+* Culture
+	* Nomads and semi-nomads
+	* Herding society
+	* Mountainous environment, with access to coast
+
+
 Structure of this documentation
 -------------------------------
   
 [Phonology](Phonology.md)
+[Grammar](Grammar.md)
+[Lexicon](Lexicon.md)
 
 License
 -------

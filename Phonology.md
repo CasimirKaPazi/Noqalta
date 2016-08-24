@@ -1,17 +1,19 @@
 Phonology
 =========
 
-| Consonants          | Bilabial | Alveolar | Palatal | Retrofelx | Velar  | Uvular |
-| ------------------- |:--------:|:--------:|:-------:|:---------:|:------:|:------:|
-| Nasal               | m        | n        | ɲ  (nj) | ɳ  (nr)   | ŋ  (ng)| ɴ  (nh)|
-| Prenasal stop       | mb       | nd       |         |           | ŋg (nk)| ɴɢ (nq)|
-| Post-stop fricative | fp       | st       | çc (cc) | ʂʈ (şt)   | xk     | χq (xq)|
-| Plosive             | p        | t        |         |           | k      | q      |
-| Affricative         |          |          | tɕ (tc) | ʈʂ (tş)   |        |        |
-| Fricative           | f        | s        |         |           | x      | χ  (xh)|
-| Trill               |          | r        |         | ɻ  (rr)   |        | ʀ  (rh)|
-| Approximant         |          |          | ɥ       |           | ɰ      |        |
-| Lateral             |          | l        | ʎ  (lj) | ɭ  (lr)   |        |        |
+Phonemes
+--------
+
+| Consonants          | Bilabial | Dental   |Alveolar| Retrofelx | Palatal | Velar  | Uvular |
+| ------------------- |:--------:|:--------:|:------:|:---------:|:-------:|:------:|:------:|
+| Nasal               | m        | n̪ [ɱ](mn)| n      | ɳ  (nr)   | ɲ  (nj) | ŋ  (ng)| ɴ  (nh)|
+| Post-stop fricative | fp       | st       | ʃt (št)| ʂʈ (şt)   | çc (cc) | xk     | χq (xq)|
+| Plosive             | p        | t̪~t      |        |           |         | k      | q      |
+| Affricative         |          |          | tʃ (tš)| ʈʂ (tş)   | tɕ (tc) |        |        |
+| Fricative           | f        | s        |        |           |         | x      | χ  (xh)|
+| Trill               |          |          | ɾ [r]  | ɻ  (rr)   |         |        | ʀ  (rh)|
+| Approximant         |          |          |        |           | ɥ  (j)  |[ɰ]     |        |
+| Lateral             |          |          | l      | ɭ  (lr)   | ʎ  (lj) |        |        |
 
 | Vowels   | f-u   | f-r |  c   | b-u      | b-r |
 | -------- |:-----:|:---:|:----:|:--------:|:---:|
@@ -29,17 +31,44 @@ Phonology
 | Nasal             | ə̃(n)  |       |       |     |
 | Open              | a     |       |       |     |
 
-(C,#)V(N)
-C = C except ɥ, ɰ, ŋ, r?
-N = C except Prefricative, Affricative
+(C,#)V(N)T  
+C = C  
+N = C except Prefricative, Affricative, ɥ, ɰ, r, n̪, ɳ, ɲ
+T = [See section on tone]
 
-Tone: register, contour, mixed ?
-checked: mid, high, falling, creaky
-open:    mid, high, falling, creaky, rising, peaking
+ɥ, ɰ only in V_V
+ɥ > Ø / (#,C)_ (pyl.ɥa > py.la)
 
-checked/closed syllable: mid ˧, high ˥, falling ˥˩, creaky a̰
-open syllable: mid ˧, high ˥, falling ˥˩, creaky a̰, rising ˧˥, peaking ˧˥˦
+### Consonant allophony within vowel harmony
 
-ɥ, ɰ allophones?
+| Phoneme |rounded|lateral|unrounded|
+| --------|:-----:|:-----:|:-------:|
+| n̪       | n̪     | ɱ     | ɱ       |
+| ɥ j     | ɥ     | ɰ     | ɰ       |
+| r       | r     | ɾ     | r       |
+| tɕ      |       | tɬ    |         |
+| çc      |       | ɬt    |         |
 
 Syllable timed
+
+
+Tone
+----
+
+P = plosive  
+L = liquid, fricative  
+
+|      |       | ´      | -     | \`              | ``         | ´´        | ´`          |
+|------|-------|--------|-------|-----------------|------------|-----------|-------------|
+| live | CV(L) | high ˥ | mid ˧ | low creaky a̰˩   | falling ˥˩ | rising ˧˥ | peaking ˧˥˦ |
+| dead | CVP   | high ˥ | mid ˧ | low falling ˧˩ʔ | falling ˥˩ | rising ˧˥ |             |
+
+
+Vowel Harmony
+-------------
+
+The high and mid-high vowels participate in vowel harmony. They are either rounded, lateral or neither ("unrounded"). While all roots and affixes have fully defined vowels, the original qualities get overwritten if preceded by other harmonic vowels.
+
+The neutral vowels a and n block rounding harmony. Lateral harmony passes over a and n ([n̩] in this case [ə̃] elsewhere), it gets blocked by /st t s r çc tɕ/. After blocking of a harmony the next present harmony gets picked up.  
+qȩ-motomy > qȩmȩ*t*omy  
+qo-tşȩkamį > qotşok*a*mį  
