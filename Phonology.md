@@ -62,15 +62,15 @@ While the syllable structure is CV(C) with the onset obligatory, it is possible 
 * Following a vowel it changes according to vowel harmony.
 * Following a vowel while no harmony is preset then ...? ([h], [ʔ], [ɻ~ɥ~ɰ], [ɰ])
 
-#jV > #ʔV
-CVC.jV > CV.CV
-Cy.jV > Cy.ɥV
-Cy[...]jV > Cy.ɥV
-Co[...]jV > Ce.ɥV
-Ce[...]jV > Ce.ɰV
-Cɯ[...]jV > Cɯ.ɰV
-Ceˡ[...]jV > Ceˡ.ɻV
-Cɯˡ[...]jV > Cɯˡ.ɻV
+\#jV > #ʔV  
+CVC.jV > CV.CV  
+Cy.jV > Cy.ɥV  
+Cy[...]jV > Cy.ɥV  
+Co[...]jV > Ce.ɥV  
+Ce[...]jV > Ce.ɰV  
+Cɯ[...]jV > Cɯ.ɰV  
+Ceˡ[...]jV > Ceˡ.ɻV  
+Cɯˡ[...]jV > Cɯˡ.ɻV  
 
 ### Vowel Harmony
 
